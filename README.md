@@ -1,2 +1,4 @@
 # Design-and-Analysis-of-Algorithm
-中国科学技术大学研究生课程算法设计与分析的概率算法的课程作业
+黄刘生老师教的部分的概率算法的作业，第四个Ex是选做所以没有加入进来。
+# 课程主页  
+http://home.ustc.edu.cn/~zgma/alg/
